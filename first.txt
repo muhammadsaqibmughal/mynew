@@ -1,3 +1,7 @@
 hello my name is saqib
+<<<<<<< HEAD
 
 new changes in first.txt
+=======
+new changes in list branch
+>>>>>>> list
