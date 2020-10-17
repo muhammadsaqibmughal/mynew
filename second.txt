@@ -1,2 +1,6 @@
 hello this is change in file 
+<<<<<<< HEAD
 some changes in new branch
+=======
+i can handle large level project
+>>>>>>> 451eca647356981eee3eeea30c92abf436486eff
